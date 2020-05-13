@@ -1,0 +1,24 @@
+
+body {
+    background-color:rgba(0,255,0,0.1);
+    font-family:"Comic Sans MS", Helvetica, Arial;
+    font-variant:ruby;
+    font-style:italic;
+    color: #660099;
+    font-size: 10px;
+    text-align:center;
+    
+    
+}
+
+table, th, td {
+
+	border: 5px solid white;
+  	border-collapse: collapse;
+        line-height: 150%;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
